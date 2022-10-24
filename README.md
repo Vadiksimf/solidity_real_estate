@@ -1,4 +1,6 @@
+There are example of a real estate agency.
 
-## Terms
-DeFi (Decentralized Financials) protocol </br>
-ECR-20 - smart contract standard on Ethereum </br>
+Technologies:
+- node ^12
+- solidity ^8.6.0
+- web3.js
