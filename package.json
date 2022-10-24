@@ -1,0 +1,15 @@
+{
+  "name": "web3_starter",
+  "version": "1.0.0",
+  "description": "",
+  "main": "web3.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "nft20": "^1.0.28",
+    "web3": "^1.0.0"
+  }
+}
